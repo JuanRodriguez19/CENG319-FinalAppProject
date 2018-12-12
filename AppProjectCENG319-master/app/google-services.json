@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "757346669301",
+    "firebase_url": "https://alarm-app-9c3ce.firebaseio.com",
+    "project_id": "alarm-app-9c3ce",
+    "storage_bucket": "alarm-app-9c3ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757346669301:android:af74264403631589",
+        "android_client_info": {
+          "package_name": "com.example.dialg.projectlayouts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757346669301-cml4rfh8lc673lcg0jb6i60e4pnnrt33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dialg.projectlayouts",
+            "certificate_hash": "9bf6e8edbcac6c9441b45546bccd1dfd166621a5"
+          }
+        },
+        {
+          "client_id": "757346669301-088b485u1fqb1oj7o5qac3vfjonbiip9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylmcNDw1lgE-YLVS4KdXrDv531xeDvJ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757346669301-088b485u1fqb1oj7o5qac3vfjonbiip9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

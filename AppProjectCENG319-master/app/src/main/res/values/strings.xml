@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">AJs Clockwork</string>
+    <string name="tab_text_1">Clock</string>
+    <string name="tab_text_2">Timer</string>
+    <string name="tab_text_3">Stopwatch</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="login">Login</string>
+    <string name="loginpage">loginpage</string>
+    <string name="register">Register</string>
+    <string name="next">next</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="submit">Submit</string>
+
+    <string name="enter_your_name">Enter your name</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="create_a_password">Create a password</string>
+    <string name="create_a_username">Create a username</string>
+    <string name="quit">Quit</string>
+    <string name="settings">Settings</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="reset">Reset</string>
+    <string name="pause">Pause</string>
+    <string name="start">Start</string>
+    <string name="temperature">Temperature</string>
+    <string name="current_temperature">Current temperature:</string>
+    <string name="textview">TextView</string>
+    <string name="prevoius_saves">Prevoius Saves</string>
+    <string name="save_temperature">Save Temperature</string>
+    <string name="_30oc">30oC</string>
+    <string name="history">History</string>
+    <string name="timestamp">timestamp</string>
+    <string name="previous_temperature_in_celsius">Previous Temperature (in celsius):</string>
+    <string name="timestampgoeshere">timestampgoeshere</string>
+    <string name="made_on">Made on:</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="check">Check</string>
+    <string name="update">Update</string>
+    <string name="about_us">About Us</string>
+    <string name="developers_juan_rodriguez_johnson_dinh_adrian_debraga">Developers: Juan Rodriguez, Johnson Dinh, Adrian Debraga</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in">Sign In</string>
+    <string name="offline_mode">Offline Mode</string>
+    <string name="Pic">picture</string>
+    <string name="language">Language</string>
+    <string name="options">Options</string>
+    <string name="english">English</string>
+    <string name="french">French</string>
+    <string name="clock">Clock</string>
+    <string name="current_time">Current Time</string>
+    <string name="display_current_time">textview</string>
+    <string name="current_time2">Current Time</string>
+    <string name="display_new_timezone">textview</string>
+    <string name="timer">Timer</string>
+    <string name="no_alarm_set">No Alarm Set</string>
+    <string name="set_timer">set timer</string>
+    <string name="cancel_timer">Cancel Timer</string>
+    <string name="account">Already have an account? Click Here</string>
+    <string name="clock1">TODO</string>
+    <string name="timerpic">TODO</string>
+    <string name="timerpic2">TODO</string>
+    <string name="iconv3">TODO</string>
+    <string name="prevtemp">TODO</string>
+    <string name="humber_college2">Humber College</string>
+    <string name="computer_engineering_technology">Computer Engineering Technology</string>
+    <string name ="recent_readings">Recent Readings</string>
+    <string name ="logout">Logout</string>
+
+
+
+</resources>

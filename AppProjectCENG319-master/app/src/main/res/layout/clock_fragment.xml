@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/CurrentTime"
+        android:textStyle="bold|italic"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="149dp"
+        android:text="@string/current_time" />
+
+    <TextView
+        android:id="@+id/txtCurrentTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="182dp"
+        android:text="@string/display_current_time"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/timezone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="253dp"
+        android:text="@string/current_time2"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtTimezone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="197dp"
+        android:text="@string/display_new_timezone"
+        android:textSize="15sp" />
+
+    <Spinner
+        android:id="@+id/spinner_timezone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="137dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="109dp"
+        android:layout_height="116dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        app:srcCompat="@drawable/clock_icon"
+        android:contentDescription="@string/clock1" />
+
+</RelativeLayout>

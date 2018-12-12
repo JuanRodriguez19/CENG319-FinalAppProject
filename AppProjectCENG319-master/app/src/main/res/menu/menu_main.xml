@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.dialg.projectlayouts.MainActivity">
+
+    <item
+        android:id="@+id/temperature"
+        android:title="@string/temperature"></item>
+
+    <item
+        android:id="@+id/TempHistory"
+        android:title="@string/recent_readings"></item>
+
+    <item android:id="@+id/settings" android:title="@string/settings"></item>
+    <item android:id="@+id/quit" android:title="@string/quit"></item>
+
+    <item
+        android:id="@+id/menuLogout"
+        android:title="@string/logout"></item>
+
+
+
+
+</menu>
