@@ -51,14 +51,14 @@ public class TempActivity extends AppCompatActivity {
         });
     }
     private void getDatabase(){
-        // TODO: Find the refernce form the database.
+        
         database = FirebaseDatabase.getInstance();
         myRef = database.getReference("data");
 
     }
 
     private DataStructure createData(Editable temperature){
-        // TODO: Get the timestamp
+        
         Long time = System.currentTimeMillis()/1000;
         String timestamp = time.toString();
         return new DataStructure(String.valueOf(temperature),timestamp);
@@ -80,7 +80,7 @@ public class TempActivity extends AppCompatActivity {
         });
     }
 
-    // Find all the views for this activity.
+    
     private void findAllViews(){
         btnTemp = findViewById(R.id.btnTemp);
         temperature = findViewById(R.id.temperature);
